@@ -13,8 +13,8 @@ Tenho foco em transformar dados brutos em inteligência territorial, apoiando a 
 
 ### Tecnologias e Ferramentas 🛠️:
 * **Linguagens e Bancos de Dados:** Python, R, SQL/PostGIS.
-* **Sistemas de Informação Geográfica (SIG):** QGIS, Google Earth Engine, ESA SNAP.
-* **Visualização e BI:** Power BI, RStudio, Google Colab.
+* **Sistemas de Informação Geográfica (SIG):** QGIS, ArcGIS, Google Earth Engine, ESA SNAP.
+* **Visualização e BI:** RStudio, Google Colab e Pacote Office.
 
 ### Como me encontrar 📫:
 * *[LinkedIn](https://www.linkedin.com/in/jesselima11/)*
