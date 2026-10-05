@@ -10,13 +10,13 @@ Analista de Geoprocessamento com especializações pela ENCE/IBGE e AmbGEO. Tran
 ### O que eu faço na prática 🤔?
 * **Apoio em Políticas e Informativos Públicos:** Atuação no Núcleo de Estudos de Território e Mineração (NETMin) do Centro de Tecnologia Mineral (CETEM/NETMin).
 * **Inteligência Territorial:** Síntese de estudos com uso de geoprocessamento, sensoriamento remoto, análise de metadados de bases cartográficas oficiais (IBGE) e fontes públicas (CETEM, CFEM, ANM, TABWIN, TABNET, etc).
-* **Epidemiologia Espacial e Saúde Única:** Estudos ecológicos, exploratórios e/ou estatísticos da fragmentação da paisagem em 
 * **Ciências de Dados Geográficos:** Uso de PostgreSQL e PostGIS para tratar, manipular, limpar e otimizar dados geoespaciais, garantindo rigor análises com alto rigor cartográfico.
 * **Análise Socioambiental:** Monitoramento de uso e cobertura da terra empregando sensoriamento remoto (NDVI) para correlação do avanço antrópico.
+* **Epidemiologia Espacial e Saúde Única:** Conduzo pesquisas de SIG aplicado na vigilância em saúde pública, sob a ótica da saúde única.
 
 ### Tecnologias e Ferramentas 🛠️:
 * **Sistemas de Informação Geográfica (SIG):** QGIS, ArcGIS (Pro, Online, Field Maps, Survey123), ESA SNAP, Google Earth Engine, WebGIS (leaflet e shiny).
-* Gestão de Dados e Linguagens:** SQL (PostgreSQL/PostGIS), R (sf/geobr/tidyverse, ggplot2), Python, Git/GitHub, Quarto. 
+* **Gestão de Dados e Linguagens:** SQL (PostgreSQL/PostGIS), R (sf/geobr/tidyverse, ggplot2), Python, Git/GitHub, Quarto. 
 * **Visualização e BI:** RStudio, Google Colab e Pacote Office.
 * **Pacote Office Avançado**.
 
