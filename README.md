@@ -1,6 +1,6 @@
 # Prazer! Eu sou Jessé da Silva Lima 🌎
 
-**Pesquisador em Geotecnologias | Cientista de Dados Espaciais | Epidemiologia Espacial & Saúde Única**
+**Pesquisador em Geotecnologias | Cientista de Dados Espaciais | Epidemiologia Espacial & Saúde Única**                                               
 **ENCE/IBGE • CETEM/MCTI**
 
 Analista de Geoprocessamento com especializações pela ENCE/IBGE e AmbGEO. Transformo grandes volumes de dados em inteligência territorial utilizando SQL/PostGIS, Python/PyGIS, QGIS/ArcGIS e pipelines de automação em R. Com forte perfil analítico, atuo na modelagem espacial, cruzamento de malhas e elaboração de indicadores para otimizar operações e planejamento de infraestrutura. O objetivo é transformar dados brutos em inteligência territorial, apoiando a formulação de políticas públicas e a tomada de decisão baseada em evidências 🔍.
