@@ -21,7 +21,7 @@ Analista de Geoprocessamento com especializações pela ENCE/IBGE e AmbGEO. Tran
 * **Pacote Office Avançado**.
 
 ### Como me encontrar 📫:
-* *[LinkedIn](www.linkedin.com/in/jessegeotec/)*
+* *[LinkedIn](https://www.linkedin.com/in/jessegeotec/?isSelfProfile=true)*
 * *[E-mail](mailto:jesselimabiz@outlook.com)*
 * *[Lattes](https://lattes.cnpq.br/2959869443124336)*
 * *[Instagram](https://instagram.com/jessegeotec/)*
