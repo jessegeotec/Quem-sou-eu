@@ -1,3 +1,5 @@
+[🇺🇸 English](README.md) | [🇧🇷 Português](README-pt.md)
+
 # Prazer! Eu sou Jessé da Silva Lima 🌎
 
 **Pesquisador em Geotecnologias | Cientista de Dados Espaciais | Epidemiologia Espacial & Saúde Única**                                               
