@@ -1,32 +1,31 @@
-# Prazer! Eu sou Jessé da Silva Lima 🌎
+# Nice to meet you! I'm Jessé da Silva Lima 🌎
 
-**Pesquisador em Geotecnologias | Cientista de Dados Espaciais | Epidemiologia Espacial & Saúde Única**                                               
+**Geotechnologies Researcher | Geospatial Data Scientist | Spatial Epidemiology & One Health**                
 **ENCE/IBGE • CETEM/MCTI**
 
-Analista de Geoprocessamento com especializações pela ENCE/IBGE e AmbGEO. Transformo grandes volumes de dados em inteligência territorial utilizando SQL/PostGIS, Python/PyGIS, QGIS/ArcGIS e pipelines de automação em R. Com forte perfil analítico, atuo na modelagem espacial, cruzamento de malhas e elaboração de indicadores para otimizar operações e planejamento de infraestrutura. O objetivo é transformar dados brutos em inteligência territorial, apoiando a formulação de políticas públicas e a tomada de decisão baseada em evidências 🔍.
+Geoprocessing Analyst with postgraduate specializations from ENCE/IBGE and AmbGEO. I transform large volumes of data into location intelligence using SQL/PostGIS, Python/PyGIS, QGIS/ArcGIS, and automation pipelines in R. With a strong analytical profile, I work with spatial modeling, spatial joins, and the development of indicators to optimize operations and infrastructure planning. My goal is to turn raw data into actionable territorial intelligence, supporting public policy formulation and evidence-based decision-making 🔍.
 
 ---
 
-### O que eu faço na prática 🤔?
-* **Apoio em Políticas e Informativos Públicos:** Atuação no Núcleo de Estudos de Território e Mineração (NETMin) do Centro de Tecnologia Mineral (CETEM/NETMin).
-* **Inteligência Territorial:** Síntese de estudos com uso de geoprocessamento, sensoriamento remoto, análise de metadados de bases cartográficas oficiais (IBGE) e fontes públicas (CETEM, CFEM, ANM, TABWIN, TABNET, etc).
-* **Ciências de Dados Geográficos:** Uso de PostgreSQL e PostGIS para tratar, manipular, limpar e otimizar dados geoespaciais, garantindo rigor análises com alto rigor cartográfico.
-* **Análise Socioambiental:** Monitoramento de uso e cobertura da terra empregando sensoriamento remoto (NDVI) para correlação do avanço antrópico.
-* **Epidemiologia Espacial e Saúde Única:** Conduzo pesquisas de SIG aplicado na vigilância em saúde pública, sob a ótica da saúde única.
+### What I do in practice 🤔?
+- **Public Policy & Reporting Support:** Researcher at the Center for Territorial and Mining Studies (NETMin) at the Center for Mineral Technology (CETEM/MCTI).
+- **Location Intelligence:** Synthesis of studies using geoprocessing, remote sensing, and metadata analysis from official cartographic databases (IBGE) and public sources (CETEM, CFEM, ANM, TABWIN, TABNET, etc.).
+- **Geospatial Data Science:** Using PostgreSQL, PostGIS and PyGIS to process, manipulate, clean, and optimize geospatial data, ensuring high cartographic rigor in all analyses.
+- **Socio-environmental Analysis:** Land Use and Land Cover (LULC) monitoring using remote sensing (e.g., NDVI) to correlate anthropogenic expansion.
+- **Spatial Epidemiology & One Health:** Conducting GIS research applied to public health surveillance through the One Health perspective.
 
-### Tecnologias e Ferramentas 🛠️:
-* **Sistemas de Informação Geográfica (SIG):** QGIS, ArcGIS (Pro, Online, Field Maps, Survey123), ESA SNAP, Google Earth Engine, WebGIS (leaflet e shiny).
-* **Gestão de Dados e Linguagens:** SQL (PostgreSQL/PostGIS), R (sf/geobr/tidyverse, ggplot2), Python, Git/GitHub, Quarto. 
-* **Visualização e BI:** RStudio, Google Colab e Pacote Office.
-* **Pacote Office Avançado**.
+### Technologies and Tools 🛠️:
+- **Geographic Information Systems (GIS):** QGIS, ArcGIS (Pro, Online, Field Maps, Survey123), ESA SNAP, Google Earth Engine, WebGIS (Leaflet and Shiny).
+- **Data Management & Languages:** SQL (PostgreSQL/PostGIS), R (sf, geobr, tidyverse, ggplot2), Python, Git/GitHub, Quarto, Git/GitHub.
+- **Visualization & BI:** RStudio, Google Colab, and Advanced Microsoft Office Suite.
 
-### Como me encontrar 📫:
-* *[LinkedIn](https://www.linkedin.com/in/jessegeotec/?isSelfProfile=true)*
-* *[E-mail](mailto:jesselimabiz@outlook.com)*
-* *[Lattes](https://lattes.cnpq.br/2959869443124336)*
-* *[Instagram](https://instagram.com/jessegeotec/)*
-* *[ORCID](https://orcid.org/0009-0003-5585-6885)*
+### How to reach me 📫:
+- *[LinkedIn](https://www.linkedin.com/in/jessegeotec/)*
+- *[E-mail](mailto:jesselimabiz@outlook.com)*
+- *[Lattes](http://lattes.cnpq.br/2959869443124336)*
+- *[Instagram](https://instagram.com/jessegeotec/)*
+- *[ORCID](https://orcid.org/0009-0003-5585-6885)*
 
 ---
 
-"Transformando dados espaciais em evidências para o ordenamento do território e saúde populacional 😉"
+"Transforming spatial data into evidence for territorial management and population health 😉"
