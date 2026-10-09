@@ -4,6 +4,7 @@
 **ENCE/IBGE • CETEM/MCTI**
 
 Geoprocessing Analyst with postgraduate specializations from ENCE/IBGE and AmbGEO. I transform large volumes of data into location intelligence using SQL/PostGIS, Python/PyGIS, QGIS/ArcGIS, and automation pipelines in R. With a strong analytical profile, I work with spatial modeling, spatial joins, and the development of indicators to optimize operations and infrastructure planning. My goal is to turn raw data into actionable territorial intelligence, supporting public policy formulation and evidence-based decision-making 🔍.
+[README on Portuguese/Brazil](https://github.com/jessegeotec/jessegeotec/blob/main/README_PTBR.md)
 
 ---
 
